@@ -24,4 +24,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### About Me
 
-This is my first time when i use HTML / CSS and i push it on GitHub. If you can, please leave a comment on frontendmentor.io: []
+This is my first time when i use HTML / CSS and i push it on GitHub. If you can, please leave a comment on frontendmentor.io: [https://www.frontendmentor.io/solutions/qr-code-component-YR4kf49XQc]
