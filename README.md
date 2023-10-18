@@ -5,13 +5,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+
   - [Links](#links)
   - [Built with](#built-with)
   - [About me](#about-me)
 
+## Overview
+
 ### Links
 
-- Live Site: []
+- Live view: [https://wannab3dev.github.io/qrcode_component]
 
 ### Built with
 
